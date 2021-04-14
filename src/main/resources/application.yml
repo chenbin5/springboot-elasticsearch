@@ -1,0 +1,5 @@
+video:
+  videoMap:
+    LIVE_VIDEO_MINE: 0 #自有素材
+    LIVE_VIDEO_GAME: 1 #赛事素材
+    LIVE_VIDEO_USER: 2 #用户素材

@@ -1,0 +1,14 @@
+/target/
+.settings
+.project
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.mvn
+.DS_Store
+HELP.md
+*.mark
+*.cmd
+mvnw
